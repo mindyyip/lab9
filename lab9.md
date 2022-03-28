@@ -3,7 +3,7 @@
 
 ## Docker Example 0
 
-![Example 0](example0.PNG)
+![Example 0](images/example0.PNG)
 
 I started a docker container and ran the code with the cowsay command.
 
@@ -11,7 +11,7 @@ I started a docker container and ran the code with the cowsay command.
 
 ### Running the Ubuntu Container
 
-![Running the Ubuntu Container](ubuntucontainer.PNG)
+![Running the Ubuntu Container](images/ubuntucontainer.PNG)
 
 I ran the docker command to create an ubuntu container.
 
@@ -19,59 +19,59 @@ I ran the docker command to create an ubuntu container.
 
 I ran apt update and installed vim. I also created and placed a test file in the /root directory.
 
-![test file](testfile.PNG)
+![test file](images/testfile.PNG)
 
 ### Installing Cowsay
 
-![cowsay](cowsaymoo.PNG)
+![cowsay](images/cowsaymoo.PNG)
 
 ## Docker Example 2
 
 ### Seeing rocket chat browser in Docker Desktop
 
-![Browser](rocketchatbrowser.PNG)
+![Browser](images/rocketchatbrowser.PNG)
 
-![Rocketchat](rocketchat1.PNG)
+![Rocketchat](images/rocketchat1.PNG)
 
-![Rocketchat2](rocketchat2.PNG)
+![Rocketchat2](images/rocketchat2.PNG)
 
 ## Docker Example 3
 
 ### Running the container and opening the port
 
-![](runDocker.PNG)
+![](images/runDocker.PNG)
 
 ### Seeing the hello world example
 
-![localHost](localhost.PNG)
+![localHost](images/localhost.PNG)
 
 ## Docker Example 4
 
 ### Build docker-compose
 
-![docker build](dockercomposebuild.PNG)
+![docker build](images/dockercomposebuild.PNG)
 
 ### Running the services
 
-![sails](sailboat.PNG)
+![sails](images/sailboat.PNG)
 
 ### Getting the list of current messages
 
-![list](list.PNG)
+![list](images/list.PNG)
 
 ### Creating a message
 
-![create](createmessage.PNG)
+![create](images/createmessage.PNG)
 
 ### Getting a message
 
-![get](getmessage.PNG)
+![get](images/getmessage.PNG)
 
 ### Modifying a message
 
-![modify](modify.PNG)
+![modify](images/modify.PNG)
 
 ### Deleting a message
 
-![delete](delete.PNG)
+![delete](images/delete.PNG)
 
