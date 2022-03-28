@@ -27,6 +27,8 @@ I ran apt update and installed vim. I also created and placed a test file in the
 
 ## Docker Example 2
 
+![Browser](rocketchatbrowser.PNG)
+
 ![Rocketchat](rocketchat1.PNG)
 
 ![Rocketchat2](rocketchat2.PNG)
@@ -39,4 +41,15 @@ I ran apt update and installed vim. I also created and placed a test file in the
 
 ## Docker Example 4
 
+![docker build](dockercomposebuild.PNG)
+
+![list](list.PNG)
+
+![create](createmessage.PNG)
+
+![get](getmessage.PNG)
+
+![modify](modify.PNG)
+
+![delete](delete.PNG)
 
